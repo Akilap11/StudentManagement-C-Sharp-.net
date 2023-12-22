@@ -10,3 +10,14 @@ E:\Work\Projects\WindowsFormsApp1-StudentManage\WindowsFormsApp1-StudentManage\o
 E:\Work\Projects\WindowsFormsApp1-StudentManage\WindowsFormsApp1-StudentManage\obj\Debug\WindowsFormsApp1-StudentManage.csproj.CoreCompileInputs.cache
 E:\Work\Projects\WindowsFormsApp1-StudentManage\WindowsFormsApp1-StudentManage\obj\Debug\WindowsFormsApp1-StudentManage.exe
 E:\Work\Projects\WindowsFormsApp1-StudentManage\WindowsFormsApp1-StudentManage\obj\Debug\WindowsFormsApp1-StudentManage.pdb
+E:\Work\My Individual Projects\StudentManagement-CSharp.net\WindowsFormsApp1-StudentManage\bin\Debug\WindowsFormsApp1-StudentManage.exe.config
+E:\Work\My Individual Projects\StudentManagement-CSharp.net\WindowsFormsApp1-StudentManage\bin\Debug\WindowsFormsApp1-StudentManage.exe
+E:\Work\My Individual Projects\StudentManagement-CSharp.net\WindowsFormsApp1-StudentManage\bin\Debug\WindowsFormsApp1-StudentManage.pdb
+E:\Work\My Individual Projects\StudentManagement-CSharp.net\WindowsFormsApp1-StudentManage\obj\Debug\WindowsFormsApp1-StudentManage.csproj.AssemblyReference.cache
+E:\Work\My Individual Projects\StudentManagement-CSharp.net\WindowsFormsApp1-StudentManage\obj\Debug\WindowsFormsApp1_StudentManage.Form1.resources
+E:\Work\My Individual Projects\StudentManagement-CSharp.net\WindowsFormsApp1-StudentManage\obj\Debug\WindowsFormsApp1_StudentManage.Properties.Resources.resources
+E:\Work\My Individual Projects\StudentManagement-CSharp.net\WindowsFormsApp1-StudentManage\obj\Debug\WindowsFormsApp1_StudentManage.student_info.resources
+E:\Work\My Individual Projects\StudentManagement-CSharp.net\WindowsFormsApp1-StudentManage\obj\Debug\WindowsFormsApp1-StudentManage.csproj.GenerateResource.cache
+E:\Work\My Individual Projects\StudentManagement-CSharp.net\WindowsFormsApp1-StudentManage\obj\Debug\WindowsFormsApp1-StudentManage.csproj.CoreCompileInputs.cache
+E:\Work\My Individual Projects\StudentManagement-CSharp.net\WindowsFormsApp1-StudentManage\obj\Debug\WindowsFormsApp1-StudentManage.exe
+E:\Work\My Individual Projects\StudentManagement-CSharp.net\WindowsFormsApp1-StudentManage\obj\Debug\WindowsFormsApp1-StudentManage.pdb
