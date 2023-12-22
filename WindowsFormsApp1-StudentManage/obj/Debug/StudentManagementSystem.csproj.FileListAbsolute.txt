@@ -1,0 +1,11 @@
+E:\Work\My Individual Projects\StudentManagementSystem-.net\WindowsFormsApp1-StudentManage\bin\Debug\WindowsFormsApp1-StudentManage.exe.config
+E:\Work\My Individual Projects\StudentManagementSystem-.net\WindowsFormsApp1-StudentManage\bin\Debug\WindowsFormsApp1-StudentManage.exe
+E:\Work\My Individual Projects\StudentManagementSystem-.net\WindowsFormsApp1-StudentManage\bin\Debug\WindowsFormsApp1-StudentManage.pdb
+E:\Work\My Individual Projects\StudentManagementSystem-.net\WindowsFormsApp1-StudentManage\obj\Debug\StudentManagementSystem.csproj.AssemblyReference.cache
+E:\Work\My Individual Projects\StudentManagementSystem-.net\WindowsFormsApp1-StudentManage\obj\Debug\WindowsFormsApp1_StudentManage.Form1.resources
+E:\Work\My Individual Projects\StudentManagementSystem-.net\WindowsFormsApp1-StudentManage\obj\Debug\WindowsFormsApp1_StudentManage.Properties.Resources.resources
+E:\Work\My Individual Projects\StudentManagementSystem-.net\WindowsFormsApp1-StudentManage\obj\Debug\WindowsFormsApp1_StudentManage.student_info.resources
+E:\Work\My Individual Projects\StudentManagementSystem-.net\WindowsFormsApp1-StudentManage\obj\Debug\StudentManagementSystem.csproj.GenerateResource.cache
+E:\Work\My Individual Projects\StudentManagementSystem-.net\WindowsFormsApp1-StudentManage\obj\Debug\StudentManagementSystem.csproj.CoreCompileInputs.cache
+E:\Work\My Individual Projects\StudentManagementSystem-.net\WindowsFormsApp1-StudentManage\obj\Debug\WindowsFormsApp1-StudentManage.exe
+E:\Work\My Individual Projects\StudentManagementSystem-.net\WindowsFormsApp1-StudentManage\obj\Debug\WindowsFormsApp1-StudentManage.pdb
